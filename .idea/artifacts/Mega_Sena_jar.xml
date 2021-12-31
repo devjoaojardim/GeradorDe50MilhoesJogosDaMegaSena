@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Mega Sena:jar">
+    <output-path>$USER_HOME$/Documents</output-path>
+    <root id="root">
+      <element id="archive" name="Mega Sena.jar">
+        <element id="module-output" name="Mega Sena" />
+      </element>
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>

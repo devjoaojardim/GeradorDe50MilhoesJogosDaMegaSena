@@ -33,7 +33,7 @@ public class MegaSena {
             }
             System.out.println("|");
             contador++;
-        } while (contador <= 1000);
+        } while (contador <= 50063860);
 
 
     }
